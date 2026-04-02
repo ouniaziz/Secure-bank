@@ -1,0 +1,25 @@
+# Git ignore rules 
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+frontend/.next/
+frontend/out/
+
+# Tool caches
+.turbo/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/

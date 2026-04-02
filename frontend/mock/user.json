@@ -1,0 +1,10 @@
+{
+  "id": "12345",
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "+1 (555) 123-4567",
+  "balance": 45250.5,
+  "accountNumber": "****5678",
+  "accountType": "Premium Checking",
+  "createdAt": "2023-01-15"
+}

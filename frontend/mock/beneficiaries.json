@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Johnson",
+    "iban": "DE89370400440532013000",
+    "bankType": "national",
+    "email": "sarah.johnson@email.com"
+  },
+  {
+    "id": "2",
+    "name": "Michael Chen",
+    "iban": "GB82WEST12345698765432",
+    "bankType": "international",
+    "email": "m.chen@email.com"
+  },
+  {
+    "id": "3",
+    "name": "Emma Williams",
+    "iban": "FR1420041010050500013M02606",
+    "bankType": "international",
+    "email": "emma.w@email.com"
+  },
+  {
+    "id": "4",
+    "name": "Alex Martinez",
+    "iban": "ES9121000418450200051332",
+    "bankType": "same-bank",
+    "email": "alex.martinez@email.com"
+  }
+]

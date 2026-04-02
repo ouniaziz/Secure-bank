@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TXN001",
+    "recipient": "Sarah Johnson",
+    "amount": "$250.00",
+    "type": "sent",
+    "date": "2024-12-01",
+    "description": "Payment for services",
+    "status": "completed"
+  },
+  {
+    "id": "TXN002",
+    "recipient": "Michael Chen",
+    "amount": "$500.00",
+    "type": "received",
+    "date": "2024-11-30",
+    "description": "Freelance work",
+    "status": "completed"
+  },
+  {
+    "id": "TXN003",
+    "recipient": "Emma Williams",
+    "amount": "$150.00",
+    "type": "sent",
+    "date": "2024-11-28",
+    "description": "Dinner split",
+    "status": "completed"
+  },
+  {
+    "id": "TXN004",
+    "recipient": "Alex Martinez",
+    "amount": "$1,200.00",
+    "type": "sent",
+    "date": "2024-11-25",
+    "description": "Rent payment",
+    "status": "completed"
+  },
+  {
+    "id": "TXN005",
+    "recipient": "Bank Transfer",
+    "amount": "$2,500.00",
+    "type": "received",
+    "date": "2024-11-20",
+    "description": "Monthly salary",
+    "status": "completed"
+  },
+  {
+    "id": "TXN006",
+    "recipient": "Utility Company",
+    "amount": "$85.50",
+    "type": "sent",
+    "date": "2024-11-15",
+    "description": "Electric bill",
+    "status": "completed"
+  }
+]
